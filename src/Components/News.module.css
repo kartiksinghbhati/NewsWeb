@@ -1,0 +1,8 @@
+.News{
+    margin-top: 60px;
+}
+
+.News > h2{
+    text-align: center;
+    padding-bottom: 40px;
+}

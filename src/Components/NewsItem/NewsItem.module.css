@@ -1,0 +1,7 @@
+.newsItem{
+    width: 350px;
+}
+
+.newsItemImg > img{
+    width: 100%;
+}

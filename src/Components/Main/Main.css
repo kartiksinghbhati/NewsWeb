@@ -1,0 +1,23 @@
+.main{
+    margin: 20px 30px 20px 30px;
+    border-top: 5px solid #444;
+    
+}
+
+.mainTitle{
+    margin-bottom: 30px;
+    padding-top: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainTitle1{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.mainTitle2{
+    text-decoration: underline;
+    font-weight: 700;
+}
